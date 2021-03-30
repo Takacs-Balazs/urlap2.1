@@ -1,0 +1,28 @@
+.mentes {
+
+    text-decoration: none;
+    text-align: center;
+    background-color:orange;
+    color: #fff;
+}
+
+.varos{
+    width: 18em;  height: 2.32em;
+}
+
+
+input{
+    height: 2em;
+}
+select{
+    height: 2em;
+}
+.szam{
+    width: auto;  height: 2.32em;
+}
+span{
+    color: hotpink;
+}
+Form{
+    background-color: lightgrey;
+}
